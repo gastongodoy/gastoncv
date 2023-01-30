@@ -1,0 +1,18 @@
+body{
+    color: #fae8e8;
+}
+.Titulo{
+    color: #c55353;
+    background-color: #fff;
+    margin-left: 40%;
+
+}
+html{
+    background-color: #fae8e8;
+}
+div{
+    background-color: #eebbba;
+    border-radius: 8px;
+    padding: 6px;
+    clear:both;
+}
